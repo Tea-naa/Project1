@@ -19,5 +19,5 @@ Technologies Used:
 
 ideas for future improvements (3):
 1. Working forms
-2. more engaging/animated cards
-3. better pixels of images for carousel
+2. More engaging/animated cards
+3. Better pixels of images for carousel
